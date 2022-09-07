@@ -17,3 +17,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 Is it mine? Nobody knows.
 ```
+
+#### To - Do List
+- [ ] Go to Target
+- [ ] Buy Boxers
+- [ ] Buy Deodorant
+- [ ] Buy Shampoo
+- [ ] Cook Dinner
